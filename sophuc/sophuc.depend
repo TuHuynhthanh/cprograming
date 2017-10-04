@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1507088575 source:c:\users\httu\documents\sophuc\main.cpp
+	<iostream>
+	<complex>
+
+1507090364 source:c:\users\httu\documents\sophuc\mangsophuc.cpp
+	<iostream>
+	<complex>
+
